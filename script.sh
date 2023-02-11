@@ -10,7 +10,7 @@ git clone https://github.com/Akhil90639/indian-liver-patients.git
 cd indian-liver-patients
 sudo pip3 install -r requirements.txt
 python3 app.py 
-git clone https://github.com/Akhil90639/Fuel-Consumption-Rating.git
+git clone https://github.com/TGouriSankar/flight-perdiction.git
 cd Fuel-Consumption-Rating
 sudo pip3 install -r requirements.txt
 python3 app.py
