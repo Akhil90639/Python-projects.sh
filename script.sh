@@ -11,6 +11,6 @@ cd indian-liver-patients
 sudo pip3 install -r requirements.txt
 python3 app.py 
 git clone https://github.com/Akhil90639/flight-perdiction.git
-cd Fuel-Consumption-Rating
+cd flight-perdiction.git
 sudo pip3 install -r requirements.txt
 python3 app.py
